@@ -1,2 +1,4 @@
 Hey sir . I find a new hmt app bug. your hcaptcha site key VERIFF_API_KEY and many are public . its link : https://app.humanprotocol.org/env.js
-its many harmfull for your website . please hidden this file . its many information our site  . please hide your env.js nd hide this file location and ix this problem as soon as possiable 
+its many harmfull for your website . please hidden this file 
+. its many information our site  .
+please hide your env.js nd hide this file location and ix this problem as soon as possiable 
